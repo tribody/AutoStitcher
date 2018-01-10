@@ -1,9 +1,6 @@
 # AutoStitcher
 an implementation of autostitch
 
-test
+test pull again
 
-two colaborators
-Automatic Panoramic Image Stitching using Invariant Features（2007IJCV
-
-test
+Automatic Panoramic Image Stitching using Invariant Features（2007IJCV）
