@@ -22,4 +22,6 @@ This repository is our C++ implementation of the *IJCV 2007* paper [Automatic Pa
 
 ## OpenPano算法流程图
 
+[OpenPano原po地址](https://github.com/ppwwyyxx/OpenPano)，需要注意这三种拼接模式真正的区别。
+
 ![openpano algorithm flow](https://github-1252003451.cos.ap-shanghai.myqcloud.com/github/algorithm_flow.png)
