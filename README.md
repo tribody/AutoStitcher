@@ -19,3 +19,7 @@ This repository is our C++ implementation of the *IJCV 2007* paper [Automatic Pa
 - 多通带融合全景图
 
 输出：全景图
+
+## OpenPano算法流程图
+
+![openpano algorithm flow](https://github-1252003451.cos.ap-shanghai.myqcloud.com/github/algorithm_flow.png)
